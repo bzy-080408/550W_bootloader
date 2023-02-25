@@ -1,4 +1,5 @@
 # 550W_Bootloader
+没错就是550量子手机bootloader(doge)  
 该项目基于lk2nd开发，用于引导后续的550W_System(可能会在暑假动工)。  
 基本上没什么大改动，就改了几个字符串。   
 
